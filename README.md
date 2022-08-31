@@ -17,3 +17,8 @@ No futuro planejo aprender Javascript, C#, etc.
 -Criando um 🤖bot para Discord
 
 Tenho outros projetos também, mas infelizmente não tenho conhecimento suficiente para iniciá-los ainda :(
+
+⚙️Framework que uso:
+----------------------------------------------
+
+-🦎Notepad++
