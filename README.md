@@ -14,7 +14,7 @@ No futuro planejo aprender Javascript, C#, etc.
 📅Projetos atuais:
 ----------------------------------------------
 
--Criando um 🤖bot para Discord
+-Criando um app com uma proposta diferente
 
 Tenho outros projetos também, mas infelizmente não tenho conhecimento suficiente para iniciá-los ainda :(
 
