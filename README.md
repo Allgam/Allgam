@@ -1,4 +1,4 @@
-Olá, me chamo @Allgam e sou um programador de 🐍Python e um pouco hacker ético também.
+Olá, me chamo @Allgam e sou um programador :)
 
 📒Atualmente estou estudando e usando:
 ----------------------------------------------
@@ -7,16 +7,16 @@ Olá, me chamo @Allgam e sou um programador de 🐍Python e um pouco hacker éti
 
 -📜HTML
 
+-[JS]Javascript
+
 -Um pouco de 💾SQL
 
--Um pouco sobre 🌐redes e 👨‍💻hacking ético
+No futuro planejo aprender Java, C#, etc.
 
-No futuro planejo aprender Javascript, C#, etc.
-
-📅Projetos atuais:
+📅Projeto(s) atuais:
 ----------------------------------------------
 
--Criando um app com uma proposta diferente
+-Ainda é uma surpresa...
 
 Tenho outros projetos também, mas infelizmente não tenho conhecimento suficiente para iniciá-los ainda :(
 
