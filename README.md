@@ -7,6 +7,8 @@ Olá, me chamo @Allgam e sou um programador :)
 
 -📜HTML
 
+-📄CSS
+
 -[JS]Javascript
 
 -Um pouco de 💾SQL
@@ -20,7 +22,7 @@ No futuro planejo aprender Java, C#, etc.
 
 Tenho outros projetos também, mas infelizmente não tenho conhecimento suficiente para iniciá-los ainda :(
 
-⚙️Framework que uso:
+⚙️Editor que uso:
 ----------------------------------------------
 
 -🦎Notepad++
