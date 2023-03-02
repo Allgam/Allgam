@@ -1,19 +1,15 @@
 Olá, me chamo @Allgam e sou um programador :)
 
-📒Atualmente estou estudando e usando:
+📒Atualmente estou estudando ou usando:
 ----------------------------------------------
 
 -🐍Python
 
 -📜HTML
 
--📄CSS
+-📄C++
 
--[JS]Javascript
-
--Um pouco de 💾SQL
-
-No futuro planejo aprender Java, C#, etc.
+-Um pouco de [JS]Javascript
 
 📅Projeto(s) atuais:
 ----------------------------------------------
