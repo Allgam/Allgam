@@ -5,12 +5,6 @@ Olá, me chamo @Allgam e sou um programador :)
 
 -🐍Python
 
--📜HTML
-
--📄C++
-
--Um pouco de [JS]Javascript
-
 📅Projeto(s) atuais:
 ----------------------------------------------
 
